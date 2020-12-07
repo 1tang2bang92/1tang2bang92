@@ -1,8 +1,8 @@
 ### Hello, I'm 1tang2bang92
 ---
-I'm korean, and i'm studing in university.
-I love Rust, Go, Python.
-i'm making machine learning project, backend, and game.
+I'm korean, and i'm studing in university.<br>
+I love Rust, Go, Python.<br>
+i'm making machine learning project, backend, and game.<br>
 thx
 
 <!--
