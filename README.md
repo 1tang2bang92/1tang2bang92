@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I'm 1tang2bang92
+---
+I'm korean, and i'm studing in university.
+I love Rust, Go, Python.
+i'm making machine learning project, backend, and game.
+thx
 
 <!--
 **1tang2bang92/1tang2bang92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
